@@ -87,14 +87,7 @@ int main() {
 ```
 
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
 ![Screenshot 2024-09-02 152550](https://github.com/user-attachments/assets/b3e175d0-8fac-442b-a19f-03ca3def61da)
-
-Enter the message to encrypt: MOHAMED ABRAR M
-Enter the Caesar Cipher key (an integer): 3
-Encrypted Message: PRKDPHG DEUDU P
-Decrypted Message: MOHAMED ABRAR M
 
 ## RESULT:
 The program is executed successfully
@@ -352,13 +345,7 @@ int main() {
 ```
 
 ## OUTPUT:
-Output:
 ![Screenshot 2024-09-02 153220](https://github.com/user-attachments/assets/b007f233-88d9-48a9-84de-8a3fd2370f3f)
-
-Enter the key: SAVEETHA
-Enter the plaintext: MOHAMED ABRAR M
-Cipher text: irbsltbefotokz
-Decrypted text: mohamedabrarm
 
 ## RESULT:
 The program is executed successfully
@@ -497,15 +484,8 @@ int main() {
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Hill Cipher
 ![Screenshot 2024-09-02 153929](https://github.com/user-attachments/assets/2a59a18e-a58d-4388-bf5b-a3c4658f1fc7)
 
-Simulation of Hill Cipher
-Input message : MOHAMEDABRARM
-Padded message : MOHAMEDABRARMXX
-Encoded message : CCVGSCFIEZQIAJD
-Decoded message : MOHAMEDABRARMXX
 ## RESULT:
 The program is executed successfully
 
@@ -605,14 +585,6 @@ int main() {
 OUTPUT :
 ![Screenshot 2024-09-02 154132](https://github.com/user-attachments/assets/38b113ed-3d7d-4fb4-937f-19125e9953b4)
 
-Simulating Vigenere Cipher
-
-
-Simulating Vigenere Cipher:
-Original Message: saveethaengineeringcollege
-Key: ABR
-Encrypted Message: sbmefkhbvnhznfvrjegdflmvgf
-Decrypted Message: saveethaengineeringcollege
 ## RESULT:
 The program is executed successfully
 
@@ -695,9 +667,5 @@ int main() {
 ## OUTPUT:
 ![Screenshot 2024-09-02 154332](https://github.com/user-attachments/assets/4bb69396-4696-4128-8cfa-5e626a59e286)
 
-OUTPUT:
-Enter a Secret Message: MOHAMED ABRAR M
-Enter number of rails: 2
-Encrypted Message: MHMDARRMOAE BA
 ## RESULT:
 The program is executed successfully
