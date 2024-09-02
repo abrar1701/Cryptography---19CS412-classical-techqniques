@@ -582,7 +582,6 @@ int main() {
 ```
 
 ## OUTPUT:
-OUTPUT :
 ![Screenshot 2024-09-02 154132](https://github.com/user-attachments/assets/38b113ed-3d7d-4fb4-937f-19125e9953b4)
 
 ## RESULT:
